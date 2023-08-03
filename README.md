@@ -19,7 +19,7 @@ Suporte: Suporte pelo servidor do Discord listado no site.
 ### Como contribuir
 Se você deseja contribuir para o desenvolvimento do site da Celeste ou do próprio bot, ficamos felizes em receber sua colaboração! Siga os passos abaixo para fazer uma contribuição:
 
-Entre no servidor de discord no site e lá tera um site de sugestões!
+Entre no servidor de discord no site e lá tera um chat de sugestões!
 
 ### Considerações Finais
 Obrigado por visitar o repositório do site da Celeste Bot! Esperamos que este site seja útil para você conhecer melhor as capacidades da Celeste e que a bot possa proporcionar uma experiência incrível no seu servidor do Discord.
