@@ -18,3 +18,8 @@ const Adicionar = () => {
 const gitBruno = () => {
     window.open("https://github.com/BrunoReiis", "_blank");
 }
+
+const closeNav = () => {
+   const nav = document.getElementById("checkNav");
+   nav.checked = false;
+}
