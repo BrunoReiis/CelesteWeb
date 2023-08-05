@@ -41,6 +41,7 @@ body {
 }
 
 .hero nav ul a:hover {
+  cursor: pointer;
   color: blueviolet;
 }
 
@@ -79,6 +80,7 @@ body {
   border-radius: 12px;
   font-size: 25px;
   margin: 0 5px 0 0;
+  cursor: pointer;
 }
 
 .hero-content img {
@@ -135,6 +137,7 @@ body {
   }
 
   .hero-body {
+    margin: 5% 0 0 0;
     flex-direction: column;
   }
 
@@ -144,12 +147,19 @@ body {
     width: 80%;
   }
 
-  .hero-body{
-    margin: 30% 0 0 0;
-  }
-
   .hero-body p{
     width: 100%;
-    font-size: 15px;
+    font-size: 25px;
+  }
+
+  .buttonHeroBody{
+    font-size: 30px;
+  }
+
+  .heroText{
+    word-spacing: 0.1rem;
+    letter-spacing: 0.1rem;
+    width: 80%;
+    margin: auto;
   }
 }
