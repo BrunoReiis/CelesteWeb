@@ -61,7 +61,7 @@ body {
 }
 
 .hero-body {
-  margin-top: 20%;
+  margin-top: 15%;
   margin-left: 5%;
   display: flex;
 }
@@ -84,7 +84,7 @@ body {
 }
 
 .hero-content img {
-  margin-top: -10%;
+  margin-top: -5%;
   margin-right: 15%;
   width: 30%;
 }
@@ -157,9 +157,20 @@ body {
   }
 
   .heroText{
-    word-spacing: 0.1rem;
-    letter-spacing: 0.1rem;
+    text-align: initial;
     width: 80%;
     margin: auto;
+  }
+}
+
+@media (max-width: 361px){
+  .heroText p{
+    font-size: 18px;
+    word-spacing: normal;
+    letter-spacing: normal;
+  }
+
+  .buttonHeroBody{
+    font-size: 27px;
   }
 }
